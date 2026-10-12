@@ -45,15 +45,12 @@ Thumbs.db
 Desktop.ini
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
 *.sublime-*
 
 # Environment - IMPORTANT: Never commit secrets!
-.env
-.env.*
 !.env.example
 
 # Cache
@@ -207,3 +204,4 @@ venv/
 # Locally generated research and reports (never committed)
 reports/
 research_notes/
+config.bat
